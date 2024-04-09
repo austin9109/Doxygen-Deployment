@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_bank_service.html" title="Collection of methods that bank offered to bank user." alt="" coords="23,5,130,32"/>
+<area shape="rect" id="node2" href="$class_c_bank.html" title="For user, bank needs to offer IBankService. For bank to bank communication while transfering,..." alt="" coords="196,31,260,57"/>
+<area shape="rect" id="node3" href="$class_i_cross_bank_service.html" title="Collection of methods that banks communicate with each other." alt="" coords="5,56,148,83"/>
+</map>

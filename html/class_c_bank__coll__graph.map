@@ -1,0 +1,11 @@
+<map id="CBank" name="CBank">
+<area shape="rect" id="node1" title="For user, bank needs to offer IBankService. For bank to bank communication while transfering,..." alt="" coords="1750,292,2655,853"/>
+<area shape="rect" id="node2" href="$class_i_bank_service.html" title="Collection of methods that bank offered to bank user." alt="" coords="5,5,917,229"/>
+<area shape="rect" id="node3" href="$class_i_cross_bank_service.html" title="Collection of methods that banks communicate with each other." alt="" coords="941,71,1704,163"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1728,79,1947,156"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1971,79,2191,156"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2216,79,2432,156"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2457,79,2674,156"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2698,79,2825,156"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2849,79,3095,156"/>
+</map>

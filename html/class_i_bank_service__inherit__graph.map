@@ -1,0 +1,4 @@
+<map id="IBankService" name="IBankService">
+<area shape="rect" id="node1" title="Collection of methods that bank offered to bank user." alt="" coords="5,5,917,229"/>
+<area shape="rect" id="node2" href="$class_c_bank.html" title="For user, bank needs to offer IBankService. For bank to bank communication while transfering,..." alt="" coords="9,277,914,912"/>
+</map>

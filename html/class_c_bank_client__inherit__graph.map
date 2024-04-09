@@ -1,0 +1,4 @@
+<map id="CBankClient" name="CBankClient">
+<area shape="rect" id="node1" title="Object for communicating with bank through protocal." alt="" coords="5,277,804,560"/>
+<area shape="rect" id="node2" href="$class_i_bank_client.html" title="Collection of methods that provided bank functionality to user." alt="" coords="19,5,790,229"/>
+</map>

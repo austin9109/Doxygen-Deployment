@@ -1,0 +1,4 @@
+<map id="IDataSerializer" name="IDataSerializer">
+<area shape="rect" id="node1" title="Collection of methods of data serializer that stands for read/write bank&#39;s data." alt="" coords="5,5,716,112"/>
+<area shape="rect" id="node2" href="$class_c_json_serializer.html" title="Bank data serializer that implemented with Json format." alt="" coords="9,160,712,252"/>
+</map>

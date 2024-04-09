@@ -1,0 +1,5 @@
+<map id="CStringCoverter::String2Float" name="CStringCoverter::String2Float">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,217,57"/>
+<area shape="rect" id="node2" href="$class_c_valid_input_checker.html#a06b65030ff34f3ae45ead64520a36224" title="Judge if character is decimal point." alt="" coords="276,5,527,32"/>
+<area shape="rect" id="node3" href="$class_c_valid_input_checker.html#a6fb420eb4dc8810ec2b741d12b339c88" title="Judge if string is int correct numerical format. For example: 19.5, 2.33, 1." alt="" coords="265,56,537,83"/>
+</map>

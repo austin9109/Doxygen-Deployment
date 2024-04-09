@@ -1,0 +1,5 @@
+<map id="CBankClient::Inquire" name="CBankClient::Inquire">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$class_c_bank_client.html#af03a22747a527db843d3dd37493a5d7c" title="Split message received from bank server into recognizeable words." alt="" coords="225,5,416,32"/>
+<area shape="rect" id="node3" href="$class_c_string_coverter.html#adfa900161ccfcab1bd8f7294e8595c14" title="Convert string into numerical." alt="" coords="208,56,433,83"/>
+</map>

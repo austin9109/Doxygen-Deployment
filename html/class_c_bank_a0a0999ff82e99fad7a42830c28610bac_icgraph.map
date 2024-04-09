@@ -1,0 +1,7 @@
+<map id="CBank::CreateAccount" name="CBank::CreateAccount">
+<area shape="rect" id="node1" title="Create and return an account with non duplicated GUID." alt="" coords="860,5,1027,32"/>
+<area shape="rect" id="node2" href="$class_c_bank.html#a81678bcec6ab3b0372a9f2fc5ae055bf" title=" " alt="" coords="699,5,812,32"/>
+<area shape="rect" id="node3" href="$class_c_bank.html#afea6bf368c446aab232ab4de4edf2e7c" title=" " alt="" coords="436,5,651,32"/>
+<area shape="rect" id="node4" href="$class_c_bank.html#ac6f567b3397cc5c8a461745dd06cd811" title="{@ Protocal decryption related" alt="" coords="213,5,388,32"/>
+<area shape="rect" id="node5" href="$class_c_bank.html#abc0720176a6490bf52546da19fb6a70c" title=" " alt="" coords="5,5,165,32"/>
+</map>

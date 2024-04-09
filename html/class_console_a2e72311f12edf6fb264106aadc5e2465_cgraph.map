@@ -1,0 +1,11 @@
+<map id="Console::DepositMenu" name="Console::DepositMenu">
+<area shape="rect" id="node1" title="Operation handle of inquire menu." alt="" coords="5,107,173,133"/>
+<area shape="rect" id="node2" href="$class_console.html#ab651a20bfb1892c999be4941cd1c7987" title="Operation handle of function main menu." alt="" coords="221,107,372,133"/>
+<area shape="rect" id="node3" href="$class_console.html#ae17d6ffe04141587c59e18ea88dea918" title="Operation handle of inquire menu." alt="" coords="420,5,601,32"/>
+<area shape="rect" id="node4" href="$class_console.html#a0fa34699f6282afe5383d33e55290c2e" title="Operation handle of inquire menu." alt="" coords="429,56,592,83"/>
+<area shape="rect" id="node5" href="$class_console.html#a8a0c35dacda136b13335c95c1a31c489" title="Operation handle of inquire menu." alt="" coords="425,107,596,133"/>
+<area shape="rect" id="node6" href="$class_console.html#a64484caa365781171b95f069f5a602f3" title="Operation handle of welcome menu." alt="" coords="421,157,600,184"/>
+<area shape="rect" id="node9" href="$class_console.html#a5ce7d731a2eb26049b43fa7f95911660" title="Operation handle of inquire menu." alt="" coords="421,208,601,235"/>
+<area shape="rect" id="node7" href="$class_console.html#a6dd28ae067d249aca6f69df5caca23d8" title="Operation handle of login menu." alt="" coords="649,183,803,209"/>
+<area shape="rect" id="node8" href="$class_console.html#ac1a5df2cf4f94604c95f290b2987e736" title="Operation handle of regist menu." alt="" coords="851,183,1009,209"/>
+</map>

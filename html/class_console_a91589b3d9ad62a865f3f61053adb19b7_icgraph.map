@@ -1,0 +1,6 @@
+<map id="Console::Refresh" name="Console::Refresh">
+<area shape="rect" id="node1" title="Refresh current content in the console. Clear first and show the output." alt="" coords="539,5,671,32"/>
+<area shape="rect" id="node2" href="$class_console.html#aafb432cd2a27680df13d0b38ccc3bc34" title=" " alt="" coords="364,5,491,32"/>
+<area shape="rect" id="node3" href="$class_console.html#a3af977027ccbe67ee733865d65ac2c33" title="Launch the console program when started." alt="" coords="188,5,316,32"/>
+<area shape="rect" id="node4" href="$class_console.html#aba16cfd9f0894eb1312b1bc1155b6646" title=" " alt="" coords="5,5,140,32"/>
+</map>

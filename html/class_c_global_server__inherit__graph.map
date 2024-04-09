@@ -1,0 +1,4 @@
+<map id="CGlobalServer" name="CGlobalServer">
+<area shape="rect" id="node1" title="Offering default created bank within this server." alt="" coords="11,160,682,267"/>
+<area shape="rect" id="node2" href="$class_i_global_server.html" title="Interface the global server. We design this interface to let implement class to offer find bank servi..." alt="" coords="5,5,688,112"/>
+</map>
